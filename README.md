@@ -2,6 +2,11 @@
 
 Mobile Operator User Churn Prediction - task from DLS
 
-LogisticRegression, KNeighborsClassifier, SVC, RandomForestClassifier, 
-VotingClassifier, 
-CatBoostClassifier, XGBClassifier, LGBMClassifier
+- LogisticRegression
+- KNeighborsClassifier
+- SVC
+- RandomForestClassifier
+- VotingClassifier
+- CatBoostClassifier 
+- XGBClassifier
+- LGBMClassifier
